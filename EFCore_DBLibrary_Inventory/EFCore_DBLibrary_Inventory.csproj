@@ -20,4 +20,7 @@
 		<PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="6.0.0" />
 		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
 	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\InventoryModels\InventoryModels.csproj" />
+	</ItemGroup>
 </Project>
