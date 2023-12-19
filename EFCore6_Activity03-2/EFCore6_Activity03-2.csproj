@@ -26,6 +26,8 @@
 
 	<ItemGroup>
 	  <ProjectReference Include="..\EFCore_DBLibrary_Inventory\EFCore_DBLibrary_Inventory.csproj" />
+	  <ProjectReference Include="..\InventoryHelpers\InventoryHelpers.csproj" />
+	  <ProjectReference Include="..\InventoryModels\InventoryModels.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

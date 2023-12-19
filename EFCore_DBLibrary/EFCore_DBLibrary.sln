@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore_Activity0201", "..\E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore_Activity0301", "..\EFCore_Activity0301\EFCore_Activity0301.csproj", "{7F27C002-8E12-45FF-9154-ED1EE828197D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore6_Activity03-2", "..\EFCore6_Activity03-2\EFCore6_Activity03-2.csproj", "{FB224F9F-2C3F-4B36-B209-CC2C564191FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore6_Activity03-2", "..\EFCore6_Activity03-2\EFCore6_Activity03-2.csproj", "{FB224F9F-2C3F-4B36-B209-CC2C564191FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore_DBLibrary_Inventory", "..\EFCore_DBLibrary_Inventory\EFCore_DBLibrary_Inventory.csproj", "{C6FBF48C-0743-430D-892E-556C7D78EE32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore_DBLibrary_Inventory", "..\EFCore_DBLibrary_Inventory\EFCore_DBLibrary_Inventory.csproj", "{C6FBF48C-0743-430D-892E-556C7D78EE32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryModels", "..\InventoryModels\InventoryModels.csproj", "{D1CDC8E1-60F2-480A-BDD8-D06B6EF05715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryModels", "..\InventoryModels\InventoryModels.csproj", "{D1CDC8E1-60F2-480A-BDD8-D06B6EF05715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryHelpers", "..\InventoryHelpers\InventoryHelpers.csproj", "{3AA76CC7-C3F1-4B28-B7D1-6F7886CC6B27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D1CDC8E1-60F2-480A-BDD8-D06B6EF05715}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1CDC8E1-60F2-480A-BDD8-D06B6EF05715}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1CDC8E1-60F2-480A-BDD8-D06B6EF05715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA76CC7-C3F1-4B28-B7D1-6F7886CC6B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA76CC7-C3F1-4B28-B7D1-6F7886CC6B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA76CC7-C3F1-4B28-B7D1-6F7886CC6B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA76CC7-C3F1-4B28-B7D1-6F7886CC6B27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

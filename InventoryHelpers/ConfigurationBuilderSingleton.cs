@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 
-namespace EFCore6_Activity03_2
+namespace InventoryHelpers
 {
     public class ConfigurationBuilderSingleton
     {
